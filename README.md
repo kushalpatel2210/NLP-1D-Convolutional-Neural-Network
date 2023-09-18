@@ -1,2 +1,2 @@
 # NLP-1DCNN
-assignment 1 
+1D Convolutional Neural Network
